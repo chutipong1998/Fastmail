@@ -1,0 +1,4 @@
+#Sun Feb 02 14:32:50 ICT 2020
+base.0=/home/chutipong/Programs/FlutterProject/fastmail/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

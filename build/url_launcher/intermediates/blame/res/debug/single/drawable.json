@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable/notification_bg.xml"
+    }
+]

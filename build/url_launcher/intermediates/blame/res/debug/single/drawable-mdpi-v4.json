@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/chutipong/Programs/FlutterProject/fastmail/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/chutipong/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/13f706ffc0c2695136258438f1cc6409/res/layout/notification_template_part_time.xml"
+    }
+]
